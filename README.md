@@ -1,5 +1,8 @@
 Weather Forecast Table
 
+Install a CORS plugin from your browser tool. Eg: Chrome extension
+Turn CORS to ON
+
 ### `git clone git@github.com:devdream123/weather-forecast-table.git`
 
 Clone the project
