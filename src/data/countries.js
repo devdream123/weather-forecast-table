@@ -10,7 +10,7 @@ const countries = {
     },
     {
       location: 'Canberra',
-      code: '3928',
+      code: 3928,
     },
     {
       location: 'Darwin',
